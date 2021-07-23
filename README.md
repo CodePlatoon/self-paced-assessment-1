@@ -10,7 +10,7 @@
 - If you fail the assessment, you have can retake it once to improve your score. For this assessment... 
   - *5% penalty*: If you complete and submit the retake **within one week** of receiving your grade. 
   - *10% penalty*: If you complete and submit the retake **after one week** of receiving your grade. A retake for this assessment WILL NOT be accepted after this date.
-- Once you finish this assessment, please tag @jyoung217 and write a message for him to grade your work.
+- Once you finish this assessment, please email jon@codeplatoon.org and let him know that you wish for him to grade assessment 1
 
 ## Rules / Process
 - This test is fully open notes and open Google, but is not to be completed with the help of any other student/individual.
